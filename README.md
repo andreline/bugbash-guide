@@ -44,4 +44,4 @@ Recomenda-se que o BugBash tenha uma **frequência consistente** dentro dos cicl
 
 > Um bug encontrado no BugBash é um bug que **não** chega na mão do cliente. É um ato de prevenção e excelência coletiva. ✨
 
-Se quiser trocar ideias sobre como adaptar o BugBash à sua realidade, me chama no [LinkedIn](https://www.linkedin.com/in/andrelinelira) ou no [Instagram](https://www.instagram.com/rotaesabor) 💜
+Se quiser trocar ideias sobre como adaptar o BugBash à sua realidade, me chama no [LinkedIn](https://www.linkedin.com/in/andrelineflira) ou no [Instagram](https://www.instagram.com/rotaesabor) 💜
